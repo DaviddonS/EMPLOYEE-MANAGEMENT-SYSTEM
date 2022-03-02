@@ -17,8 +17,7 @@
 
 
 
-@media (max-width: 767px) {
-  .col-2 {
+@media (max-width: 767p
     width: 100%;
   }
 }
@@ -37,8 +36,7 @@ html {
 }
 
 * {
-  padding: 0;
-  margin: 0;
+  padding
 }
 
 *, *:before, *:after {
